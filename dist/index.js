@@ -3,7 +3,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.IonIcon = void 0;
 const tslib_1 = require("tslib");
 const react_1 = tslib_1.__importDefault(require("react"));
-require("./icon.css");
+require("./index.css");
 /**
  * React Wrapper Component for them ionic icons.
  *
