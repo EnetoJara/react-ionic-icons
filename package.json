@@ -1,6 +1,6 @@
 {
   "name": "react-ion-icon",
-  "version": "3.0.0",
+  "version": "4.0.0",
   "description": "React Wrapper component for them ionic icons",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
