@@ -1,5 +1,5 @@
 import React from "react";
-import "./icon.scss";
+import "./icon.css";
 
 /**
  * React Wrapper Component for them ionic icons.
