@@ -1,4 +1,4 @@
-# react-ionic-icons
+# react-ion-icon
 
 This is a React wrapper component for them ionic icons.
 
@@ -9,7 +9,7 @@ to use this package you first have to add.
 at the very bottom of your body at your index.html. then on the com ponent you want to use it you just import it
 
 ```javascript
-import {IonIcon} from "react-ionic-icons";
+import {IonIcon} from "react-ion-icon";
 
 export function MyComponent (props) {
 
